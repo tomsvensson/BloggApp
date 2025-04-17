@@ -1,0 +1,21 @@
+# Client (Vue)
+client/node_modules
+client/dist
+client/.env
+
+# Server (ASP.NET)
+server/bin/
+server/obj/
+server/.vs/
+server/*.user
+server/*.suo
+server/Properties/launchSettings.json
+server/appsettings.*.json
+
+# Systemfiler
+.DS_Store
+Thumbs.db
+
+# Loggar & env
+*.log
+.env
