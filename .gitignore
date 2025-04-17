@@ -9,7 +9,6 @@ server/obj/
 server/.vs/
 server/*.user
 server/*.suo
-server/Properties/launchSettings.json
 server/appsettings.*.json
 
 # Systemfiler
